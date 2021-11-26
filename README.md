@@ -1,4 +1,4 @@
-# test Project
+# Graph To Json Bean
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
